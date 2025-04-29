@@ -28,7 +28,7 @@ openai.api_key = OPENAI_API_KEY
 openai.api_key = OPENAI_API_KEY
 
 # Azure OpenAI Endpoint
-OPENAI_API_ENDPOINT = "https://jmaje-m83sq68w-eastus2.cognitiveservices.azure.com/"
+OPENAI_API_ENDPOINT = "Ep"
 # Initialize Azure AI Search Client
 search_client = SearchClient(
     endpoint=AZURE_SEARCH_ENDPOINT,
